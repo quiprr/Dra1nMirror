@@ -27,6 +27,7 @@ make package install
 ## Credits
 - [Myself, app/tweak developer](https://github.com/CharlieWhile13)
 - [MegaDeviOS, tweak/backend developer](https://github.com/MegaDevIOS)
+- [alpha, app icons](https://twitter.com/Kutarin_)
 - [RocketBootstrap](https://github.com/rpetrich/RocketBootstrap)
 - [Cephei](https://github.com/hbang/libcephei)
 - [Macaw](https://github.com/exyte/Macaw)
